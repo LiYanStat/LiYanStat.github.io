@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yanlistat.com/about/</guid>
-      <description>{{ partial &#34;head.html&#34; . }}  {{ partial &#34;navbar.html&#34; . }} ABOUT ME Hi, I&#39;m Yan Li! I made this website to post some information about the projects and share experience in statistical modeling. Check Project. I&#39;m pursuing my Ph.D. degree in Statistics at Departmemt of Statistics, University of Connecticut from 2016. I recieved my B.S. degree in Statistics from Renmin University of China in 2016. I enjoy using R  and Python  to do statistical analysis.</description>
+      <description>{{ partial &#34;head.html&#34; . }}  {{ partial &#34;navbar.html&#34; . }} ABOUT ME Hi, I&#39;m Yan Li! I&#39;m pursuing my Ph.D. degree in Statistics at Departmemt of Statistics, University of Connecticut from starting from 2016. I recieved my B.S. degree in Statistics from Renmin University of China in 2016. I enjoy using R  and Python  to do statistical analysis. And I&#39;m currently working on developing statistical models and R packages for climate change and errors-in-variables models.</description>
     </item>
     
     <item>
