@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Yan Li</title>
+    <link>http://yanlistat.com/home/</link>
+    <description>Recent content in Homes on Yan Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 &amp;#183; Yan Li</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://yanlistat.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://yanlistat.com/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://yanlistat.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/about/</guid>
+      <description>About me I&amp;rsquo;m Yan Li! I&amp;rsquo;m pursuing my Ph.D. degree in Statistics at Departmemt of Statistics, University of Connecticut from starting from 2016. I recieved my B.S. degree in Statistics from Renmin University of China in 2016.
+I enjoy using R  and Python  to do statistical analysis. And I&amp;rsquo;m currently working on developing statistical models and R packages for climate change and errors-in-variables models. Information for my research is avaliable at Projects.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://yanlistat.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://yanlistat.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://yanlistat.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

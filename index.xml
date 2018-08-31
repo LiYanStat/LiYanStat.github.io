@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yan Li&#39;s Webpage</title>
+    <title>Yan Li on Yan Li</title>
     <link>http://yanlistat.com/</link>
-    <description>Recent content on Yan Li&#39;s Webpage</description>
+    <description>Recent content in Yan Li on Yan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="http://yanlistat.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>http://yanlistat.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://yanlistat.com/about/</guid>
-      <description>{{ partial &#34;head.html&#34; . }}  {{ partial &#34;navbar.html&#34; . }} ABOUT ME Hi, I&#39;m Yan Li! I&#39;m pursuing my Ph.D. degree in Statistics at Departmemt of Statistics, University of Connecticut from starting from 2016. I recieved my B.S. degree in Statistics from Renmin University of China in 2016. I enjoy using R  and Python  to do statistical analysis. And I&#39;m currently working on developing statistical models and R packages for climate change and errors-in-variables models.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://yanlistat.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://yanlistat.com/contact/</guid>
-      <description>{{ partial &#34;head.html&#34; . }}  {{ partial &#34;navbar.html&#34; . }} Contact University of Connecticutyan.4.li@uconn.edu : LiYanStat
- 	 {{ partial &#34;script.html&#34; . }}   </description>
-    </item>
+    <copyright>&amp;copy; 2018 &amp;#183; Yan Li</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
