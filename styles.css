@@ -36,12 +36,18 @@ html {
   }
 }
 
+.caption {
+  margin-top: -50px;
+  font-size: 0.75em;
+  text-align: center;
+}
+
 body {
   font-family: inherit;
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: #F8F8F5;
+  background-color: #fff;
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
@@ -115,14 +121,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: <no value>;
+  color: #328cc1;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: <no value>;
+  color: #328cc1;
 }
 
 img,
@@ -247,58 +253,6 @@ small,
 }
 
 /*************************************************
- *  Search.
- **************************************************/
-
-#search-box {
-  position: relative; /* Required for search icon positioning. */
-  margin-bottom: 0.5rem;
-}
-
-#search-box::before {
-  content: "\f002";
-  font-family: FontAwesome;
-  font-size: 1rem;
-  opacity: 0.25;
-  line-height: 1rem;
-  position: absolute;
-  left: 0.7rem;
-  top: 0.6rem;
-  overflow-x: hidden;
-}
-
-#search-query {
-  border: 1px solid #dedede;
-  border-radius: 1rem;
-  padding: 1rem 1rem 1rem 2rem; /* Wider left padding for search icon to fit in. */
-  width: 250px;
-  line-height: 1rem;
-  height: 1rem;
-  font-size: 0.8rem;
-}
-
-.search-hit em {
-  font-style: normal;
-  background-color: #FFE0B2;
-  color: #E65100;
-  border-bottom: 1px solid #E65100;
-}
-
-.search-hit-type {
-  margin-bottom: 0 !important; /* Override .article-metadata margin. */
-  text-transform: capitalize;
-}
-
-.search-hit-description {
-  font-size: 0.7rem;
-}
-
-/* Load more results button - hide when there are no more results. */
-#search-hits button[disabled] {
-  display: none;
-}
-
-/*************************************************
  *  Modals.
  **************************************************/
 
@@ -394,7 +348,7 @@ a[data-fancybox] img {
 }
 
 .home-section {
-  background-color: #F8F8F5;
+  background-color: #fff;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
@@ -405,7 +359,7 @@ a[data-fancybox] img {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: #fff;
+  background-color: #f7f7f7;
 }
 
 @media screen and (max-width: 768px) {
@@ -500,7 +454,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: <no value>;
+  color: #328cc1;
   font-size: 3rem;
   text-align: center;
 }
@@ -717,7 +671,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: <no value>;
+  color: #328cc1;
 }
 
 .middot-divider {
@@ -1048,41 +1002,12 @@ footer a#back_to_top i {
 }
 
 /*************************************************
- *  Tags/Labels
- **************************************************/
-
-.label-default {
-  border: none;
-  color: rgba(0,0,0,.68);
-  background: rgba(0,0,0,.05);
-  font-weight: normal;
-  border-radius: 3px;
-  padding: 5px 10px;
-  margin-right: 8px;
-  margin-bottom: 8px;
-}
-
-.article-tags > .label-default:last-child {
-  margin-right: 0;
-}
-
-.label-default[href]:focus,
-.label-default[href]:hover {
-  background: rgba(0,0,0,.1);
-}
-
-a.label:focus,
-a.label:hover {
-  color: rgba(0,0,0,.68);
-}
-
-/*************************************************
  *  Button Primary: Color Override
  **************************************************/
 
 .btn-primary {
-  border-color: <no value> !important;
-  background: <no value> !important;
+  border-color: #328cc1 !important;
+  background: #328cc1 !important;
 }
 
 .btn-primary:hover,
@@ -1090,7 +1015,7 @@ a.label:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: <no value> !important;
+  background: #328cc1 !important;
 }
 
 .btn-light {
@@ -1124,12 +1049,12 @@ a.label:hover {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: <no value> !important;
+  background-color: #DA2536 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: <no value> !important;
+  background-color: #328cc1 !important;
 }
 
 /*************************************************
@@ -1143,12 +1068,12 @@ a.label:hover {
 }
 
 .btn-primary.btn-outline {
-  color: <no value> !important;
-  border-color: <no value> !important;
+  color: #328cc1 !important;
+  border-color: #328cc1 !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: <no value> !important;
+  color: #328cc1 !important;
 }
 
 .btn-primary.btn-outline:active {
@@ -1202,7 +1127,7 @@ a.label:hover {
 }
 
 .navbar-default {
-  background: #555;
+  background: #494949;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1235,14 +1160,14 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-  color: #f85c37;
+  color: #328cc1;
   background-color: transparent;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: #f85c37;
+  color: #328cc1;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1264,7 +1189,7 @@ nav#navbar-main li {
 }
 
 .dropdown-menu {
-  background-color: #555 !important;
+  background-color: #494949 !important;
 }
 
 .dropdown-menu > li > a {
@@ -1279,17 +1204,17 @@ nav#navbar-main li {
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: #f85c37;
+  color: #328cc1;
   text-decoration: none;
-  background-color: #555;
+  background-color: #494949;
 }
 
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .active > a:hover {
-  color: #555;
+  color: #494949;
   text-decoration: none;
-  background-color: #f85c37;
+  background-color: #328cc1;
   outline: 0;
 }
 
@@ -1298,7 +1223,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:visited {
   color: #fff !important;
-  background-color: #555 !important;
+  background-color: #494949 !important;
 }
 
 .navbar-default .navbar-brand {
@@ -1404,7 +1329,7 @@ nav#navbar-main li {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
-    color: #f85c37;
+    color: #328cc1;
     background-color: transparent;
   }
 
@@ -1550,6 +1475,7 @@ body.dark {
 .dark code {
   color: rgb(139, 233, 253);
   background-color: rgb(68, 71, 90);
+
 }
 
 .dark pre {
@@ -1566,7 +1492,7 @@ body.dark {
 }
 
 .dark ul.share li a {
-  background-color: <no value>;
+  background-color: #328cc1;
 }
 
 .dark table table {
@@ -1620,7 +1546,7 @@ body.dark {
 }
 
 .dark .card h4 a {
-  color: <no value>;
+  color: #328cc1;
   border-bottom: solid 1px transparent;
 }
 
@@ -1640,28 +1566,4 @@ body.dark {
 .dark select {
   background: rgb(40, 42, 54);
   color: rgb(248, 248, 242);
-}
-
-/* Algolia search input */
-.dark .ais-search-box--input {
-  background-color: rgb(68, 71, 90);
-}
-
-.dark #search-query {
-  background-color: rgb(68, 71, 90);
-}
-
-.dark .label-default {
-  color: rgba(255, 255, 255, .68);
-  background: rgba(255, 255, 255, .2);
-}
-
-.dark .label-default[href]:focus,
-.dark .label-default[href]:hover {
-  background: rgba(255, 255, 255, .3);
-}
-
-.dark a.label:focus,
-.dark a.label:hover {
-  color: rgba(255, 255, 255, .68);
 }

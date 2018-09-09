@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Iain</title>
-    <link>http://yanlistat.com/post/</link>
-    <description>Recent content in Posts on Iain</description>
+    <title>Writing on Iain</title>
+    <link>http://yanlistat.com/categories/writing/</link>
+    <description>Recent content in Writing on Iain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 &amp;#183; Yan Li</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://yanlistat.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yanlistat.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

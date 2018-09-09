@@ -1,14 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yan Li on Yan Li</title>
+    <title>Iain</title>
     <link>http://yanlistat.com/</link>
-    <description>Recent content in Yan Li on Yan Li</description>
+    <description>Recent content on Iain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 &amp;#183; Yan Li</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+        <atom:link href="http://yanlistat.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://yanlistat.com/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://yanlistat.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p class=&#34;text-justify&#34;&gt;I&#39;m pursuing my Ph.D. degree in Statistics at &lt;a
+href=&#34;http://stat.uconn.edu/&#34; target=&#34;_blank&#34; ref=&#34;noopener&#34;&gt;
+Departmemt of Statistics, University of Connecticut&lt;/a&gt; after
+graduating from &lt;a href=&#34;http://stat.ruc.edu.cn&#34; target=&#34;_blank&#34;
+ref=&#34;noopener&#34;&gt;School of Statistics&lt;/a&gt;, Renmin University of China in
+2016. My interests lie in developing and applying statistical models
+to different fields of research. I am also interested in how
+statistics can help with interpreting data and make contribution to
+researches in different area. I&#39;m currently working on
+error-in-variables model and detection &amp; attribution of climate
+change. &lt;/p&gt;
+
+&lt;p&gt;&lt;p class=&#34;text-justify&#34;&gt;I started this website to post some thinkings
+and personal notes on statistical project and programming. I would be
+glad if my humble opinions turn out to be helpful in your researches
+or studies. &lt;/p &gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://yanlistat.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://yanlistat.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://yanlistat.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yanlistat.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Several Things for Writing Statistical Paper</title>
+      <link>http://yanlistat.com/post/2018-09-11-writing_paper/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://yanlistat.com/post/2018-09-11-writing_paper/</guid>
+      <description>&lt;p&gt;1. Keep tex source file clean and tidy. Make everything easy to read and
+compare. No extra spacing or indention, and two blank lines for
+separating paragraph. Make line width under 80. While do not limit
+math expression to 80. Break math expression at right places.&lt;/p&gt;
+
+&lt;p&gt;2. Make notations, equations precise and concise, and explain clearly
+meaning of each notation. Do not use abbreviation if unnecessary. The
+notations should be consistent through the paper. Leave enough spaces
+so the formulas become more readable even in source and only number
+equation if it’s referenced. &lt;/p&gt;
+
+&lt;p&gt;3. When citing a paper, do not cite the reviewing paper, cite the
+original paper. &lt;/p&gt;
+
+&lt;p&gt;4. The caption of table and figure should be self contained. Make
+sure others can under- stand the figures or tables by reading the
+caption.&lt;/p&gt;
+
+&lt;p&gt;5. Tables should be formatted in logical order to make the tables
+easy to follow. Content in one column should be consistent. Do not
+change the font size in table. Reformat the table to fit the page.&lt;/p&gt;
+
+&lt;p&gt;6. In introduction section, when doing literature review, one
+should make connection to the paper. Do not just describe the previous
+work. And the introduction should be in logical order to make it easy
+to follow.&lt;/p&gt;
+
+&lt;p&gt;7. Always explain the unusual findings in the numerical studies
+section, and also consider addressing other questions that the readers
+may ask.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

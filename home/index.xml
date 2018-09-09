@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Yan Li</title>
+    <title>Homes on Iain</title>
     <link>http://yanlistat.com/home/</link>
-    <description>Recent content in Homes on Yan Li</description>
+    <description>Recent content in Homes on Iain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 &amp;#183; Yan Li</copyright>
@@ -27,8 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>http://yanlistat.com/home/about/</guid>
-      <description>About me I&amp;rsquo;m Yan Li! I&amp;rsquo;m pursuing my Ph.D. degree in Statistics at Departmemt of Statistics, University of Connecticut from starting from 2016. I recieved my B.S. degree in Statistics from Renmin University of China in 2016.
-I enjoy using R  and Python  to do statistical analysis. And I&amp;rsquo;m currently working on developing statistical models and R packages for climate change and errors-in-variables models. Information for my research is avaliable at Projects.</description>
+      <description>Biography I&#39;m pursuing my Ph.D. degree in Statistics at Departmemt of Statistics, University of Connecticut after graduating from School of Statistics, Renmin University of China in 2016. My interests lie in developing and applying statistical models to different fields of research. I am also interested in how statistics can help with interpreting data and make contribution to researches in different area. I&#39;m currently working on error-in-variables model and detection &amp; attribution of climate change.</description>
     </item>
     
     <item>
