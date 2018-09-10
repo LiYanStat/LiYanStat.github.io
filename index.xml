@@ -32,10 +32,10 @@
 &lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
 
 &lt;p class=&#34;text-justify&#34;&gt;I&#39;m pursuing my Ph.D. degree in Statistics at &lt;a
-href=&#34;http://stat.uconn.edu/&#34; target=&#34;_blank&#34; ref=&#34;noopener&#34;&gt;
+href=&#34;http://stat.uconn.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 Departmemt of Statistics, University of Connecticut&lt;/a&gt; after
 graduating from &lt;a href=&#34;http://stat.ruc.edu.cn&#34; target=&#34;_blank&#34;
-ref=&#34;noopener&#34;&gt;School of Statistics&lt;/a&gt;, Renmin University of China in
+rel=&#34;noopener&#34;&gt;School of Statistics&lt;/a&gt;, Renmin University of China in
 2016. My interests lie in developing and applying statistical models
 to different fields of research. I am also interested in how
 statistics can help with interpreting data and make contribution to
