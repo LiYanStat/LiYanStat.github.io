@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 &amp;#183; Yan Li</copyright>
-    <lastBuildDate>Tue, 23 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://yanlistat.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Several Things for Writing Statistical Paper</title>
       <link>http://yanlistat.com/post/2018-09-11-writing_paper/</link>
-      <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://yanlistat.com/post/2018-09-11-writing_paper/</guid>
       <description>1. Keep tex source file clean and tidy. Make everything easy to read and compare. No extra spacing or indention, and two blank lines for separating paragraph. Make line width under 80. While do not limit math expression to 80. Break math expression at right places.
