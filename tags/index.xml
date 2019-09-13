@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Iain</title>
-    <link>http://yanlistat.com/tags/</link>
-    <description>Recent content in Tags on Iain</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 &amp;ndash; 2019 &amp;#183; Yan Li</copyright>
-    
-	<atom:link href="http://yanlistat.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Tags | Yan Li</title>
+    <link>https://yanlistat.com/tags/</link>
+      <atom:link href="https://yanlistat.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017 &amp;ndash; 2019 &amp;#183; Yan Li</copyright>
+    <image>
+      <url>https://yanlistat.com/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://yanlistat.com/tags/</link>
+    </image>
     
   </channel>
 </rss>

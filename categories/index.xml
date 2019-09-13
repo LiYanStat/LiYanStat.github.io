@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Iain</title>
-    <link>http://yanlistat.com/categories/</link>
-    <description>Recent content in Categories on Iain</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 &amp;ndash; 2019 &amp;#183; Yan Li</copyright>
-    
-	<atom:link href="http://yanlistat.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Categories | Yan Li</title>
+    <link>https://yanlistat.com/categories/</link>
+      <atom:link href="https://yanlistat.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017 &amp;ndash; 2019 &amp;#183; Yan Li</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yanlistat.com/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://yanlistat.com/categories/</link>
+    </image>
     
     <item>
       <title>Writing</title>
-      <link>http://yanlistat.com/categories/writing/</link>
+      <link>https://yanlistat.com/categories/writing/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://yanlistat.com/categories/writing/</guid>
+      <guid>https://yanlistat.com/categories/writing/</guid>
       <description></description>
     </item>
     
