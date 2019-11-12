@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yan Li</title>
+    <link>https://yanlistat.com/authors/</link>
+      <atom:link href="https://yanlistat.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017 &amp;ndash; 2019 &amp;#183; Yan Li</copyright>
+    <image>
+      <url>https://yanlistat.com/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://yanlistat.com/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://yanlistat.com/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yanlistat.com/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m pursuing my PhD degree in Statistics at &lt;a
+href=&#34;http://stat.uconn.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+Departmemt of Statistics, University of Connecticut&lt;/a&gt; after
+graduating from &lt;a href=&#34;http://stat.ruc.edu.cn&#34; target=&#34;_blank&#34;
+rel=&#34;noopener&#34;&gt;School of Statistics&lt;/a&gt;, Renmin University of China in
+2016. My interests lie in Climate Change Detection and Attribution
+Analysis, Measurement Error Models, Mixture Models, Dimension
+Reduction and Variable Selection.&lt;/p&gt;
+
+&lt;p&gt;This website includes information on my current research projects,
+publications and some thinkings/notes on research and programming.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
