@@ -5,20 +5,12 @@
     <link>https://yanlistat.com/categories/</link>
       <atom:link href="https://yanlistat.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017 &amp;ndash; 2019 &amp;#183; Yan Li</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yanlistat.com/img/icon-192.png</url>
+      <url>https://yanlistat.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
       <link>https://yanlistat.com/categories/</link>
     </image>
-    
-    <item>
-      <title>Writing</title>
-      <link>https://yanlistat.com/categories/writing/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://yanlistat.com/categories/writing/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
