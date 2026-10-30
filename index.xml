@@ -44,5 +44,245 @@ may ask.&lt;/p&gt;
 </description>
     </item>
     
+    <item>
+      <title>Software</title>
+      <link>https://yanlistat.com/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yanlistat.com/software/</guid>
+      <description>&lt;h2 id=&#34;r-packages-on-cran&#34;&gt;R packages on CRAN&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Name&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Latest release&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Downloads (RStudio CRAN mirror)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;#dacc&#34;&gt;dacc&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=dacc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.r-pkg.org/badges/version/dacc&#34; alt=&#34;dacc CRAN version&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=dacc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/dacc&#34; alt=&#34;dacc total downloads&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;#tls&#34;&gt;tls&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=tls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.r-pkg.org/badges/version/tls&#34; alt=&#34;tls CRAN version&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=tls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/tls&#34; alt=&#34;tls total downloads&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;#touch&#34;&gt;touch&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=touch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.r-pkg.org/badges/version/touch&#34; alt=&#34;touch CRAN version&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=touch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/touch&#34; alt=&#34;touch total downloads&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Download badges report cumulative downloads recorded by the RStudio CRAN mirror since October 2012. Release and download badges are provided by external services.&lt;/p&gt;
+&lt;h2 id=&#34;dacc&#34;&gt;dacc&lt;/h2&gt;
+&lt;h3 id=&#34;detection-and-attribution-analysis-of-climate-change&#34;&gt;Detection and Attribution Analysis of Climate Change&lt;/h3&gt;
+&lt;p&gt;Statistical tools for climate change detection and attribution using optimal fingerprinting, including generalized total least squares and estimating equation methods. The package also provides covariance shrinkage estimators.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=dacc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; · &lt;a href=&#34;https://github.com/LiYanStat/dacc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; · &lt;a href=&#34;https://CRAN.R-project.org/web/packages/dacc/dacc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reference manual&lt;/a&gt; · &lt;a href=&#34;https://liyanstat.r-universe.dev/dacc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development version&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;dacc&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Li et al. (2025). &lt;a href=&#34;https://doi.org/10.1175/JCLI-D-24-0193.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Climate article&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ma et al. (2023). &lt;a href=&#34;https://doi.org/10.1175/JCLI-D-22-0681.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Climate article&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tls&#34;&gt;tls&lt;/h2&gt;
+&lt;h3 id=&#34;total-least-squares-in-errors-in-variables-models&#34;&gt;Total Least Squares in Errors-in-Variables Models&lt;/h3&gt;
+&lt;p&gt;Point and interval estimation for regression models with measurement error in the predictors, using total least squares and generalized total least squares methods.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=tls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; · &lt;a href=&#34;https://github.com/LiYanStat/tls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; · &lt;a href=&#34;https://CRAN.R-project.org/web/packages/tls/tls.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reference manual&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;tls&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;methodological-references&#34;&gt;Methodological references&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Golub and Van Loan (1980). &lt;a href=&#34;https://doi.org/10.1137/0717073&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Analysis of the Total Least Squares Problem&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Markovsky and Van Huffel (2007). &lt;a href=&#34;https://doi.org/10.1016/j.sigpro.2007.04.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overview of total least-squares methods&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;touch&#34;&gt;touch&lt;/h2&gt;
+&lt;h3 id=&#34;tools-of-utilization-and-cost-in-healthcare&#34;&gt;Tools of Utilization and Cost in Healthcare&lt;/h3&gt;
+&lt;p&gt;R tools for healthcare data analysis, including mapping ICD-9 codes to AHRQ comorbidity measures and translating between ICD-9 and ICD-10 codes using CMS General Equivalence Mappings.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=touch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; · &lt;a href=&#34;https://github.com/wenjie2wang/touch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; · &lt;a href=&#34;https://CRAN.R-project.org/web/packages/touch/touch.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reference manual&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;touch&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;archived-cran-packages&#34;&gt;Archived CRAN packages&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Name&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Last CRAN release&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Downloads (RStudio CRAN mirror)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;#fmerpack&#34;&gt;fmerPack&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0.0-1 (archived)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=fmerPack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/grand-total/fmerPack&#34; alt=&#34;fmerPack total downloads&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;fmerpack&#34;&gt;fmerPack&lt;/h2&gt;
+&lt;h3 id=&#34;tools-of-heterogeneity-pursuit-via-finite-mixture-effects-model&#34;&gt;Tools of Heterogeneity Pursuit via Finite Mixture Effects Model&lt;/h3&gt;
+&lt;p&gt;Regularized finite mixture regression using an effects-model formulation to identify predictors with shared effects and those whose effects vary across clusters. Supports heterogeneity pursuit and variable selection.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=fmerPack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN package status&lt;/a&gt; · &lt;a href=&#34;https://CRAN.R-project.org/src/contrib/Archive/fmerPack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Archived source releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CRAN archived this package on December 25, 2025. Source releases remain available from the archive.&lt;/p&gt;
+&lt;h4 id=&#34;reference&#34;&gt;Reference&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Li, Y., Yu, C., Zhao, Y., Aseltine, R. H., Yao, W., and Chen, K. (2021). &lt;a href=&#34;https://doi.org/10.48550/arXiv.2003.04787&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pursuing Sources of Heterogeneity in Modeling Clustered Population&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;other-research-software&#34;&gt;Other research software&lt;/h2&gt;
+&lt;h2 id=&#34;paapack&#34;&gt;paaPack&lt;/h2&gt;
+&lt;h3 id=&#34;principal-amalgamation-analysis-for-microbiome-data&#34;&gt;Principal Amalgamation Analysis for Microbiome Data&lt;/h3&gt;
+&lt;p&gt;An R implementation of hierarchical principal amalgamation analysis, with optional guidance from a taxonomic tree. Includes tools to visualize amalgamation paths, diversity loss, and changes in between-sample distances.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/LiYanStat/paaPack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code and installation instructions&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;reference-1&#34;&gt;Reference&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3390/genes13071139&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Principal Amalgamation Analysis for Microbiome Data&lt;/a&gt;. &lt;em&gt;Genes&lt;/em&gt; (2022), 13(7), 1139.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

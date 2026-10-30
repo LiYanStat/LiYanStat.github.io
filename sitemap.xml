@@ -50,5 +50,8 @@
   </url><url>
     <loc>https://yanlistat.com/event/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yanlistat.com/software/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
